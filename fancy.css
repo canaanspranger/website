@@ -1,0 +1,39 @@
+
+* {
+    color: #8F857C;
+    background-color: #DBD8D5;
+}
+
+img {
+    float: right;
+}
+
+p {
+    font-family: 'zeitung-mono', sans-serif;
+    font-weight: 500;
+    font-size: 30px; 
+    text-align: center;
+}
+
+ul {
+   list-style-type: none;
+    margin: 0;
+    padding-top: 1.5em; 
+    text-align: center;
+    font-family: 'zeitung-mono', sans-serif;
+    font-weight: 500;
+    font-size: 45px; 
+    text-align: center;
+
+}
+a {
+padding: 0.5em;
+text-decoration: none; 
+}
+
+a:active {
+    text-decoration: underline;
+}
+li {
+    display: inline;  
+}
