@@ -1,0 +1,20 @@
+
+* {
+    color: #790CE8;
+    background-color: #FFFEEC;
+}
+
+p {
+    font-family: 'vt323', monospace;
+font-weight: 400;
+    font-size: 60px;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
