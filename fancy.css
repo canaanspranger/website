@@ -36,6 +36,7 @@ a:active {
 }
 li {
     display: inline;  
+<<<<<<< HEAD
 }
 
 #work {
@@ -44,4 +45,6 @@ li {
     margin-left: auto;
     width: 50%;
    
+=======
+>>>>>>> 09bdbe9b822385b03c69e6cfe6d0bdec0200a18a
 }
