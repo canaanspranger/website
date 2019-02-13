@@ -4,7 +4,7 @@
     background-color: #DBD8D5;
 }
 
-img {
+.logo {
     float: right;
 }
 
@@ -36,15 +36,12 @@ a:active {
 }
 li {
     display: inline;  
-<<<<<<< HEAD
 }
 
 #work {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 50%;
+    width: 40%;
    
-=======
->>>>>>> 09bdbe9b822385b03c69e6cfe6d0bdec0200a18a
 }
